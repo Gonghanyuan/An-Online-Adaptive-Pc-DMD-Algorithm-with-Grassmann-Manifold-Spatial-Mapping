@@ -15,7 +15,7 @@ We remain committed to scientific reproducibility. If you are a researcher wishi
 2. Collaborate on further developments.
 3. Request a compiled "black-box" version (executable) for testing.
 
-Please contact the corresponding author via email: **ghysz@foxmail.com**
+Please contact the author via email: **ghysz@foxmail.com**
 
 Requests should include your name, affiliation, and a brief statement of your research purpose. We may provide specific modules or compiled binaries under a Non-Disclosure Agreement (NDA).
 
