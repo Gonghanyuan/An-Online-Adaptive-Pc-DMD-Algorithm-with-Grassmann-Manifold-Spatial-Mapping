@@ -21,4 +21,4 @@ Requests should include your name, affiliation, and a brief statement of your re
 
 
 ---
-© 2024 GongHanyuan. All rights reserved.
+© 2026 GongHanyuan. All rights reserved.
