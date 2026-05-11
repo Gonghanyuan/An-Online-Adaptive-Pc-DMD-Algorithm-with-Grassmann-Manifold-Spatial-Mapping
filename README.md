@@ -14,7 +14,7 @@ The overall computational workflow of the proposed online adaptive physics-const
 
 ![Computational Flowchart](flowchart.png)
 
-*(The framework seamlessly integrates high-fidelity neutronic calculations with data-driven DMD and Grassmann manifold mapping to achieve rapid and accurate neutronic-depletion coupling.)*
+*(The framework seamlessly integrates high-fidelity neutronic-depletion coupling calculations with data-driven DMD and Grassmann manifold mapping to achieve rapid and accurate neutronic-depletion coupling.)*
 
 
 ## How to Access 
