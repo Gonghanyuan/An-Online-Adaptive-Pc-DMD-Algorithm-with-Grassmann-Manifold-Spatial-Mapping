@@ -8,7 +8,7 @@ This repository is the official placeholder for the code associated with the pap
 Due to **intellectual property protection (IP)**, pending patent applications, and the proprietary nature of the core algorithms developed by our research group, the full source code has been moved to a private internal repository.
 
 
-## ⚙️ Algorithm Framework (算法框架)
+## ⚙️ Algorithm Framework 
 
 The overall computational workflow of the proposed online adaptive physics-constrained DMD algorithm is illustrated below. It consists of four tightly coupled modules: the High-Fidelity Module, the Spatial Mapping Module, the Pc-DMD Module, and the NNDs Reconstruction Module.
 
