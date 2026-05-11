@@ -1,7 +1,7 @@
 # An-Online-Adaptive-Pc-DMD-Algorithm-with-Grassmann-Manifold-Spatial-Mapping
 
 This repository is the official placeholder for the code associated with the paper: 
-**"An online adaptive physics-constrained DMD algorithm with Grassmann manifold spatial mapping for neutronic-depletion coupling calculation"**, published in *Computer Physics Communications* (CPC).
+**"An online adaptive physics-constrained DMD algorithm with Grassmann manifold spatial mapping for neutronic-depletion coupling calculation"**, published in *Computer Physics Communications* (CPC). (https://doi.org/10.1016/j.cpc.2026.110204)
 
 ## Notice on Code Availability
 
